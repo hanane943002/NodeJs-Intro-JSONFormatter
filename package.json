@@ -1,0 +1,19 @@
+{
+  "name": "json-tidy",
+  "version": "1.0.0",
+  "description": "The purpose of the project here is to build some CLI (Command Line) utilities using simple JavaScript program :)",
+  "main": "my_magical_program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matrice-io/NodeJs-Intro-JSONFormatter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matrice-io/NodeJs-Intro-JSONFormatter/issues"
+  },
+  "homepage": "https://github.com/Matrice-io/NodeJs-Intro-JSONFormatter#readme"
+}
